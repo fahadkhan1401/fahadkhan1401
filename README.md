@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Fahad.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently doing Bs Hons Mathematics.
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 Bs Hons Mathematics.
+- 
 
 
 <!---
